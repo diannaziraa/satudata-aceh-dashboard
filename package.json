@@ -1,0 +1,19 @@
+{
+  "name": "satudata-tes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proxy-server.js",
+  "scripts": {
+    "start:proxy": "node proxy-server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "lucide-react": "^1.24.0",
+    "node-fetch": "^2.7.0"
+  }
+}
